@@ -1,0 +1,16 @@
+*://*.yelp.*/*
+*://*.yelp.co.nz/*
+*://*.yelp.co.in/*
+*://*.yelp.co.at/*
+*://*.yelp.co.il/*
+*://*.yelp.co.uk/*
+*://*.yelp.co.za/*
+*://*.yelp.com.au/*
+*://*.yelp.com.mx/*
+*://*.yelp.com.ph/*
+*://*.yelp.com.pt/*
+*://*.yelp.com.sg/*
+*://*.yelp.com.tr/*
+*://*.yelp.com.tw/*
+*://*.yelp.com.ua/*
+*://*.yelp.com.ph/*
