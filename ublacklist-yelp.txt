@@ -1,4 +1,6 @@
 *://*.yelp.com/*
+*://*.yelp.ca/*
+*://*.yelp.nz/*
 *://*.yelp.asia/*
 *://*.yelp.in/*
 *://*.yelp.hk/*
